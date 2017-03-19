@@ -1,0 +1,65 @@
+.align-left {
+  display: inline;
+  float: left;
+}
+
+.align-right {
+  display: inline;
+  float: right;
+}
+
+.align-center {
+  clear: both;
+  display: block;
+  margin:auto;
+}
+
+.text-align-center {
+  text-align: center;
+}
+
+.margin-left-80 {
+  margin-left: 80px;
+}
+
+.margin-bottom-50 {
+  margin-bottom: 50px;
+}
+
+.menu-icon {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  width: 40px;
+  height: 40px;
+}
+
+.content-header {
+  background: #0080ff;
+  padding: 30px 0px 10px;
+  text-align: center;
+  height: 300px;
+}
+
+.content-header .avatar {
+  display: block;
+  width: 120px;
+  height: 120px;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  overflow: hidden;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+
+.content-header .author {
+  padding-top: 3px;
+  color: #ffffff;
+}
+.content-header .subtitle {
+  padding-top: 3px;
+  color: #fff;
+}
+
+.backgroubd-brand-wrap {
+  background: url(../img/brand.jpg);
+  background-size: 100% 100%;
+}
